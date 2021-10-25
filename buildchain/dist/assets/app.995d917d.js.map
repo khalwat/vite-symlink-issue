@@ -1,0 +1,1 @@
+{"version":3,"file":"app.995d917d.js","sources":["../../../src/main.js"],"sourcesContent":["import './style.css'\n\ndocument.querySelector('#app').innerHTML = `\n  <h1>Hello Vite!</h1>\n  <a href=\"https://vitejs.dev/guide/features.html\" target=\"_blank\">Documentation</a>\n`\n"],"names":[],"mappings":"AAEA,SAAS,cAAc,QAAQ,UAAY;AAAA;AAAA;"}
